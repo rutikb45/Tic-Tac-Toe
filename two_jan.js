@@ -17,4 +17,9 @@ btn.innerText = "click me";
 
 // list.append(btn);
 // list.prepend(btn);/7
+
+let btn2 = document.createElement("button");
+
+btn2.innerHTML = "second button";
+list.prepend(btn2)
 list.append(btn)
