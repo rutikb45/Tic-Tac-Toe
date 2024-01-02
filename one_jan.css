@@ -1,0 +1,26 @@
+p{
+    color: red;
+    background-color: yellow;
+}
+#box{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: 1px solid black;
+    color: white;
+}
+#box2{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: 1px solid black;
+    color: white;
+}
+#demo{
+    margin-top: 5px;
+    height: 200px;
+    width: 100px;
+    background-color: blue;
+    border: 1px solid black;
+    color: white;
+}
