@@ -17,4 +17,4 @@ btn.innerText = "click me";
 
 // list.append(btn);
 // list.prepend(btn);/7
-list.after(btn)
+list.append(btn)
